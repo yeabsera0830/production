@@ -63,7 +63,14 @@ You will receive
 Sending a Links request
 Just send a GET request to
 https://nameless-coast-36151.herokuapp.com/links
-and you will receive an array of links
+and you will receive an array of links like this
+{
+    "loginWithPhone": "https://nameless-coast-36151.herokuapp.com/login/phone",
+    "loginWithFacebook": "https://nameless-coast-36151.herokuapp.com/login/facebook",
+    "signUpWithPhone": "https://nameless-coast-36151.herokuapp.com/signup/phone",
+    "signUpWithFacebook": "https://nameless-coast-36151.herokuapp.com/signup/facebook",
+    "getPlaceCount": "https://nameless-coast-36151.herokuapp.com/place/count"
+}
 
 Sending Places Request
 And since there are only a few places
