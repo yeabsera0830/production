@@ -60,6 +60,11 @@ You will receive
 }
 
 
+Sending a Links request
+Just send a GET request to
+https://nameless-coast-36151.herokuapp.com/login/facebook
+and you will receive an array of links
+
 Sending Places Request
 And since there are only a few places
 I did a 2KM radius search
