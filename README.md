@@ -59,3 +59,17 @@ You will receive
   "message" "some Messsage" if status is 400
 }
 
+
+Sending Places Request
+And since there are only a few places
+I did a 2KM radius search
+https://nameless-coast-36151.herokuapp.com/place/count
+{
+  "catagory": "bar"
+}
+
+You will receive
+{
+  "status": 200,
+  "count": 5
+}

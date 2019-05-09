@@ -13,7 +13,7 @@ const parameters = {
 }
 
 const catagories = [
-    'restaurant', 'event', 'garage', 'garage', 'hospital', 'bar', 'bar', 'gym', 'pharmacy'
+    'restaurant', 'event', 'garage', 'hospital', 'bar', 'park', 'gym', 'pharmacy'
 ]
 
 function checkCatagory(catagory) {
