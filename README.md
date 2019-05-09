@@ -62,7 +62,7 @@ You will receive
 
 Sending a Links request
 Just send a GET request to
-https://nameless-coast-36151.herokuapp.com/login/facebook
+https://nameless-coast-36151.herokuapp.com/links
 and you will receive an array of links
 
 Sending Places Request
